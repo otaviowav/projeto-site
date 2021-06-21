@@ -5,11 +5,10 @@
 
 body {
     background-color: cornflowerblue;
-    background-image: url(https://imgur.com/kxR6yUs.jpg);
+    background-image: url(../imagens/backgroundImg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
 }
-
 
 main {
     background-color: white;
